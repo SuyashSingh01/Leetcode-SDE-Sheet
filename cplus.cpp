@@ -24,10 +24,10 @@ cout<<arr[i]<<" ";
 }
 }
 };
-int main(){
-fun C;
-int arr[10]={1,2,3,4,5,6,7,8,9,10};
-cout<<"Element in array : "<<endl;
+// int main(){
+// fun C;
+// int arr[10]={1,2,3,4,5,6,7,8,9,10};
+// cout<<"Element in array : "<<endl;
 //takearray(arr);
 //printarray(arr)
 printarray(arr);
