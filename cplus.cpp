@@ -20,7 +20,7 @@ public:
 void reverse(int arr[]){
 cout<<"Reverse Element of array  : "<<endl;
 for(int i=9;i>=0;i--){
-cout<<arr[i]<<" ";
+cout<<arr[i]<<" "; suqatgadc
 }
 }
 };
