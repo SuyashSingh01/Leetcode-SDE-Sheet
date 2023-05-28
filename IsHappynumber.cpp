@@ -1,9 +1,9 @@
 #include<iostream>
-#include<conio.h>
 using namespace std;
 
 class Solution {
 public:
+
     bool isHappy(int n) {
       int d;
     //   vector<int >v;
